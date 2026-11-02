@@ -1,0 +1,1318 @@
+{
+  "edition": {
+    "name": "Sustainability Week Zurich",
+    "days": [
+      "2026-04-13",
+      "2026-04-14",
+      "2026-04-15",
+      "2026-04-16",
+      "2026-04-17"
+    ],
+    "timeZone": "Europe/Zurich",
+    "notice": "Historical demonstration data from April 2026, not a confirmed future programme."
+  },
+  "events": [
+    {
+      "id": "e01",
+      "title": "Computer Maintenance and Repair",
+      "description": "Learn practical ways to keep your computer working for longer. Explore maintenance and repair with hands-on guidance.",
+      "start": "2026-04-13T10:00:00+02:00",
+      "end": "2026-04-13T12:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Workshop",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true,
+        "note": "Image spells the title \"Computer Maintenence and Repair\"; the design uses \"Maintenance\"."
+      }
+    },
+    {
+      "id": "e09",
+      "title": "ETH Sustainability Open Office",
+      "description": null,
+      "start": "2026-04-13T12:00:00+02:00",
+      "end": "2026-04-13T13:00:00+02:00",
+      "campus": "ETH Zentrum",
+      "venue": "ETH Zentrum",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Info event",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "room or meeting point"
+        ]
+      }
+    },
+    {
+      "id": "e02",
+      "title": "Foodsave Lunch",
+      "description": "Share a lunch made from rescued ingredients and discover everyday ways to reduce food waste. Come along, meet other visitors and enjoy the break.",
+      "start": "2026-04-13T12:00:00+02:00",
+      "end": "2026-04-13T13:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Food",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true
+      }
+    },
+    {
+      "id": "e10",
+      "title": "Behind the Scenes: Info-Event PHZH",
+      "description": null,
+      "start": "2026-04-13T13:00:00+02:00",
+      "end": "2026-04-13T14:00:00+02:00",
+      "campus": "PHZH",
+      "venue": "PHZH Lounge-F-Nord",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Info event",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address"
+        ]
+      }
+    },
+    {
+      "id": "e03",
+      "title": "Making the Switch to Linux",
+      "description": "Explore how Linux can give an older computer a new lease of life. Learn about getting started and ask questions about making the switch.",
+      "start": "2026-04-13T13:00:00+02:00",
+      "end": "2026-04-13T15:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Workshop",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true
+      }
+    },
+    {
+      "id": "e04",
+      "title": "Walking Tour on ETH Zentrum Campus",
+      "description": "A guided walk exploring sustainability across ETH Zentrum, with ideas to take into everyday campus life.",
+      "start": "2026-04-13T14:00:00+02:00",
+      "end": "2026-04-13T15:30:00+02:00",
+      "campus": "ETH Zentrum",
+      "venue": "ETH Polyterrasse",
+      "address": "Leonhardstrasse 34, 8092 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://www.google.com/maps/search/ETH%2BPolyterrasse%2C%2BZurich",
+      "category": "Tour",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "cancelled",
+      "dataFlags": {
+        "demoDescription": true,
+        "note": "Cancellation comes from the design annotation (\"actual e04 is cancelled\"); the printed programme does not show it."
+      }
+    },
+    {
+      "id": "e11",
+      "title": "Zirkulär Handeln mit Zwiebeln",
+      "description": null,
+      "start": "2026-04-13T15:00:00+02:00",
+      "end": "2026-04-13T18:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Strebergärtli",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": null,
+      "category": "Workshop",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "building-level location (campus address used)"
+        ]
+      }
+    },
+    {
+      "id": "e12",
+      "title": "Climate Fresk Workshop",
+      "description": null,
+      "start": "2026-04-13T15:00:00+02:00",
+      "end": "2026-04-13T18:00:00+02:00",
+      "campus": "PHZH",
+      "venue": "PHZH LAA-K020",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Workshop",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address"
+        ]
+      }
+    },
+    {
+      "id": "e13",
+      "title": "Why We Will Fail the SDGs",
+      "description": null,
+      "start": "2026-04-13T16:00:00+02:00",
+      "end": "2026-04-13T17:30:00+02:00",
+      "campus": "PHZH",
+      "venue": "PHZH LAA-L021",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Panel",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address"
+        ]
+      }
+    },
+    {
+      "id": "e14",
+      "title": "ArborMundi Changemaker Workshop",
+      "description": null,
+      "start": "2026-04-13T18:00:00+02:00",
+      "end": "2026-04-13T21:00:00+02:00",
+      "campus": "PHZH",
+      "venue": "PHZH LAA-K021",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Workshop",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address"
+        ]
+      }
+    },
+    {
+      "id": "e15",
+      "title": "Living Library and Flying Dinner",
+      "description": null,
+      "start": "2026-04-13T18:30:00+02:00",
+      "end": "2026-04-13T21:30:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Panel",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e05",
+      "title": "Sustainable PubQuiz",
+      "description": "Put your sustainability knowledge to the test with a team quiz at bQm. Expect questions, conversation and a relaxed evening together.",
+      "start": "2026-04-13T19:30:00+02:00",
+      "end": "2026-04-13T22:00:00+02:00",
+      "campus": "ETH Zentrum",
+      "venue": "ETH Zentrum, bQm Bar",
+      "address": "Leonhardstrasse 34, 8092 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://www.google.com/maps/search/bqm%2C%2BPolyterrasse%2C%2BZurich",
+      "category": "Game",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": true,
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeaXsnizSAQYH7-fUx_yMubp_Ucy_13BYCj5yGgn8mJxsjUBw/viewform"
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true
+      }
+    },
+    {
+      "id": "e16",
+      "title": "Walking Days",
+      "description": null,
+      "start": "2026-04-14T08:00:00+02:00",
+      "end": "2026-04-14T14:00:00+02:00",
+      "campus": "ETH Zentrum",
+      "venue": "ETH Polyterrasse",
+      "address": "Leonhardstrasse 34, 8092 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://www.google.com/maps/search/ETH%2BPolyterrasse%2C%2BZurich",
+      "category": "Tour",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e17",
+      "title": "ZHAW Sustainability Day",
+      "description": null,
+      "start": "2026-04-14T09:00:00+02:00",
+      "end": "2026-04-14T21:00:00+02:00",
+      "campus": "ZHAW",
+      "venue": "ZHAW Winterthur",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Panel",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "building and address"
+        ]
+      }
+    },
+    {
+      "id": "e18",
+      "title": "Workshop Grand Crochet & Fingerknit",
+      "description": null,
+      "start": "2026-04-14T09:30:00+02:00",
+      "end": "2026-04-14T11:00:00+02:00",
+      "campus": "Other",
+      "venue": "ZKSD, Hardstrasse 235",
+      "address": "Hardstrasse 235, Zürich",
+      "locationConfirmed": true,
+      "mapUrl": null,
+      "category": "Workshop",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "postcode",
+          "campus (mapped to Other)"
+        ]
+      }
+    },
+    {
+      "id": "e06",
+      "title": "From Waste Plastic to 3D Printing",
+      "description": "Explore the possibilities of recycling plastic through a practical workshop connecting circular materials and 3D printing.",
+      "start": "2026-04-14T10:00:00+02:00",
+      "end": "2026-04-14T13:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Stübli",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://www.google.com/maps/search/Irchel%2BVSUZH%2BSt%C3%BCbli%2C%2BZurich",
+      "category": "Workshop",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true
+      }
+    },
+    {
+      "id": "e19",
+      "title": "Foodsave Lunch",
+      "description": null,
+      "start": "2026-04-14T12:00:00+02:00",
+      "end": "2026-04-14T13:30:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Food",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e20",
+      "title": "Create or Collapse?: Mini Game Rounds",
+      "description": null,
+      "start": "2026-04-14T13:00:00+02:00",
+      "end": "2026-04-14T15:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Game",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e21",
+      "title": "Clothes Swap with Upcycling Station",
+      "description": null,
+      "start": "2026-04-14T16:30:00+02:00",
+      "end": "2026-04-14T21:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Workshop",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e22",
+      "title": "Too Much is Not Enough? Tech Culture",
+      "description": null,
+      "start": "2026-04-14T17:00:00+02:00",
+      "end": "2026-04-14T18:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Panel",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e23",
+      "title": "Auf den Spuren des Bibers",
+      "description": null,
+      "start": "2026-04-14T17:00:00+02:00",
+      "end": "2026-04-14T18:00:00+02:00",
+      "campus": "Other",
+      "venue": "From Tramstop Tüffenwies",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Tour",
+      "languages": [
+        "de"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "exact meeting point"
+        ]
+      }
+    },
+    {
+      "id": "e24",
+      "title": "Create or Collapse?: Game Playtest",
+      "description": null,
+      "start": "2026-04-14T18:00:00+02:00",
+      "end": "2026-04-14T20:00:00+02:00",
+      "campus": "ZHAW",
+      "venue": "ZHAW ZL O5.16",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Game",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address"
+        ]
+      }
+    },
+    {
+      "id": "e25",
+      "title": "Velokino: The Cost of Growth",
+      "description": null,
+      "start": "2026-04-14T20:00:00+02:00",
+      "end": "2026-04-14T22:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Music & Film",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e26",
+      "title": "Sustainable Campus with Citizen Science",
+      "description": null,
+      "start": "2026-04-15T11:00:00+02:00",
+      "end": "2026-04-15T14:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Stübli",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://www.google.com/maps/search/Irchel%2BVSUZH%2BSt%C3%BCbli%2C%2BZurich",
+      "category": "Panel",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e27",
+      "title": "Foodsave Lunch",
+      "description": null,
+      "start": "2026-04-15T12:00:00+02:00",
+      "end": "2026-04-15T13:30:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Food",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e28",
+      "title": "Biodiversity in Irchel Park",
+      "description": null,
+      "start": "2026-04-15T13:00:00+02:00",
+      "end": "2026-04-15T14:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Science Pavilion",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Tour",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address",
+          "campus (assumed Irchel from the event title)"
+        ]
+      }
+    },
+    {
+      "id": "e29",
+      "title": "Jät Jam & Fundland live",
+      "description": null,
+      "start": "2026-04-15T13:00:00+02:00",
+      "end": "2026-04-15T17:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Strebergärtli",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": null,
+      "category": "Exhibition",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "building-level location (campus address used)"
+        ]
+      }
+    },
+    {
+      "id": "e07",
+      "title": "KEEP IT COOL Ausstellungsführung",
+      "description": "Explore an exhibition about climate, discover different perspectives and ask questions together.",
+      "start": "2026-04-15T15:00:00+02:00",
+      "end": "2026-04-15T16:30:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent, as printed",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Exhibition",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true,
+        "missing": [
+          "confirmed venue (design marks it \"to be confirmed\")"
+        ]
+      }
+    },
+    {
+      "id": "e30",
+      "title": "Naturally Vegan",
+      "description": null,
+      "start": "2026-04-15T17:30:00+02:00",
+      "end": "2026-04-15T21:00:00+02:00",
+      "campus": "Other",
+      "venue": "UZH KOL-K-Küche",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Food",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address",
+          "campus (UZH Zentrum is not a filter option; mapped to Other)"
+        ]
+      }
+    },
+    {
+      "id": "e31",
+      "title": "Foodsave Kitchen Challenge",
+      "description": null,
+      "start": "2026-04-15T17:30:00+02:00",
+      "end": "2026-04-15T22:00:00+02:00",
+      "campus": "Other",
+      "venue": "Das Provisorium",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Food",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address"
+        ]
+      }
+    },
+    {
+      "id": "e32",
+      "title": "Sustainable Travel Adventures",
+      "description": null,
+      "start": "2026-04-15T18:00:00+02:00",
+      "end": "2026-04-15T19:30:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Panel",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e33",
+      "title": "Velokino: Weit um die Welt",
+      "description": null,
+      "start": "2026-04-15T20:00:00+02:00",
+      "end": "2026-04-15T22:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Music & Film",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e34",
+      "title": "Walking Days",
+      "description": null,
+      "start": "2026-04-16T08:00:00+02:00",
+      "end": "2026-04-16T14:00:00+02:00",
+      "campus": "ETH Zentrum",
+      "venue": "ETH Zentrum",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Tour",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "room or meeting point"
+        ]
+      }
+    },
+    {
+      "id": "e35",
+      "title": "Sustainable Startup Day",
+      "description": null,
+      "start": "2026-04-16T11:00:00+02:00",
+      "end": "2026-04-16T17:00:00+02:00",
+      "campus": "Other",
+      "venue": "UZH Zentrum Lichthof",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Exhibition",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address",
+          "campus (UZH Zentrum is not a filter option; mapped to Other)"
+        ]
+      }
+    },
+    {
+      "id": "e36",
+      "title": "Foodsave Lunch",
+      "description": null,
+      "start": "2026-04-16T12:00:00+02:00",
+      "end": "2026-04-16T13:30:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Food",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e37",
+      "title": "Biodiversity Action Day at Irchel Campus",
+      "description": null,
+      "start": "2026-04-16T13:00:00+02:00",
+      "end": "2026-04-16T16:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": null,
+      "category": "Workshop",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "meeting point on campus"
+        ]
+      }
+    },
+    {
+      "id": "e38",
+      "title": "Transdisciplinary Methodology",
+      "description": null,
+      "start": "2026-04-16T16:00:00+02:00",
+      "end": "2026-04-16T17:30:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Panel",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e39",
+      "title": "Storytelling Event",
+      "description": null,
+      "start": "2026-04-16T17:00:00+02:00",
+      "end": "2026-04-16T19:00:00+02:00",
+      "campus": "ETH Zentrum",
+      "venue": "ETH Student Project House",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Panel",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address",
+          "campus (assumed ETH Zentrum)"
+        ]
+      }
+    },
+    {
+      "id": "e40",
+      "title": "Stormy Future: AI-based Weather Forecasts",
+      "description": null,
+      "start": "2026-04-16T18:00:00+02:00",
+      "end": "2026-04-16T20:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Panel",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e41",
+      "title": "A Planet for the 99%",
+      "description": null,
+      "start": "2026-04-16T18:30:00+02:00",
+      "end": "2026-04-16T21:00:00+02:00",
+      "campus": "Other",
+      "venue": "UZH Zentrum KOL-F-101",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Panel",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address",
+          "campus (UZH Zentrum is not a filter option; mapped to Other)"
+        ]
+      }
+    },
+    {
+      "id": "e42",
+      "title": "Let's Jam Together",
+      "description": null,
+      "start": "2026-04-16T20:15:00+02:00",
+      "end": "2026-04-16T22:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Music & Film",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e43",
+      "title": "Behind the Scenes: NHWZ Info-Event",
+      "description": null,
+      "start": "2026-04-17T10:00:00+02:00",
+      "end": "2026-04-17T11:00:00+02:00",
+      "campus": "ZHdK",
+      "venue": "ZHdK Toni-Areal",
+      "address": "Pfingstweidstrasse 96, 8005 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": null,
+      "category": "Info event",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e44",
+      "title": "Foodsave Lunch",
+      "description": null,
+      "start": "2026-04-17T12:00:00+02:00",
+      "end": "2026-04-17T13:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Food",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e45",
+      "title": "Plastic Upcycling Workshop",
+      "description": null,
+      "start": "2026-04-17T13:30:00+02:00",
+      "end": "2026-04-17T16:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Workshop",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e46",
+      "title": "Repair Day at AMIV Bastli",
+      "description": null,
+      "start": "2026-04-17T13:30:00+02:00",
+      "end": "2026-04-17T17:30:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Workshop",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e47",
+      "title": "Biodiversitätsspiele Nachmittag",
+      "description": null,
+      "start": "2026-04-17T14:00:00+02:00",
+      "end": "2026-04-17T17:30:00+02:00",
+      "campus": "ZHdK",
+      "venue": "ZHdK Seminarraum 5.K11",
+      "address": "Pfingstweidstrasse 96, 8005 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": null,
+      "category": "Game",
+      "languages": [
+        "de"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "e48",
+      "title": "Excursion to the Wastewater Plant",
+      "description": null,
+      "start": "2026-04-17T14:15:00+02:00",
+      "end": "2026-04-17T17:30:00+02:00",
+      "campus": "Other",
+      "venue": "Werdhölzli Plant",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Tour",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "address"
+        ]
+      }
+    },
+    {
+      "id": "e08",
+      "title": "Gender, Sustainability & Climate Change",
+      "description": "Join a discussion of how gender and inequality shape experiences of climate change, with perspectives on a more inclusive sustainable future.",
+      "start": "2026-04-17T18:15:00+02:00",
+      "end": "2026-04-17T20:15:00+02:00",
+      "campus": "ZHdK",
+      "venue": "ZHdK 5.K11",
+      "address": "Pfingstweidstrasse 96, 8005 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://www.google.com/maps/search/ZHdK%2C%2BZurich",
+      "category": "Panel",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true,
+        "note": "Fixture room \"5.K11\" comes from the design; the image gives only \"ZHdK\" and lists 5.K11 for Biodiversitätsspiele Nachmittag."
+      }
+    },
+    {
+      "id": "e49",
+      "title": "Closing Party",
+      "description": null,
+      "start": "2026-04-17T19:00:00+02:00",
+      "end": "2026-04-17T23:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Bar",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": null,
+      "category": "Music & Film",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "missing": [
+          "description",
+          "building-level location (campus address used)"
+        ]
+      }
+    }
+  ]
+}

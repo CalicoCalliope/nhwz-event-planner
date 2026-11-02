@@ -1,0 +1,215 @@
+{
+  "edition": {
+    "name": "Sustainability Week Zurich",
+    "days": [
+      "2026-04-13",
+      "2026-04-14",
+      "2026-04-15",
+      "2026-04-16",
+      "2026-04-17"
+    ],
+    "timeZone": "Europe/Zurich",
+    "notice": "Historical demonstration data from April 2026, not a confirmed future programme."
+  },
+  "events": [
+    {
+      "id": "e01",
+      "title": "Computer Maintenance and Repair",
+      "description": "Learn practical ways to keep your computer working for longer. Explore maintenance and repair with hands-on guidance.",
+      "start": "2026-04-13T10:00:00+02:00",
+      "end": "2026-04-13T12:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Workshop",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true,
+        "note": "Image spells the title \"Computer Maintenence and Repair\"; the design uses \"Maintenance\"."
+      }
+    },
+    {
+      "id": "e02",
+      "title": "Foodsave Lunch",
+      "description": "Share a lunch made from rescued ingredients and discover everyday ways to reduce food waste. Come along, meet other visitors and enjoy the break.",
+      "start": "2026-04-13T12:00:00+02:00",
+      "end": "2026-04-13T13:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Food",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true
+      }
+    },
+    {
+      "id": "e03",
+      "title": "Making the Switch to Linux",
+      "description": "Explore how Linux can give an older computer a new lease of life. Learn about getting started and ask questions about making the switch.",
+      "start": "2026-04-13T13:00:00+02:00",
+      "end": "2026-04-13T15:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://maps.app.goo.gl/SLHPurSCCuQNmcSB9",
+      "category": "Workshop",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true
+      }
+    },
+    {
+      "id": "e04",
+      "title": "Walking Tour on ETH Zentrum Campus",
+      "description": "A guided walk exploring sustainability across ETH Zentrum, with ideas to take into everyday campus life.",
+      "start": "2026-04-13T14:00:00+02:00",
+      "end": "2026-04-13T15:30:00+02:00",
+      "campus": "ETH Zentrum",
+      "venue": "ETH Polyterrasse",
+      "address": "Leonhardstrasse 34, 8092 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://www.google.com/maps/search/ETH%2BPolyterrasse%2C%2BZurich",
+      "category": "Tour",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "cancelled",
+      "dataFlags": {
+        "demoDescription": true,
+        "note": "Cancellation comes from the design annotation (\"actual e04 is cancelled\"); the printed programme does not show it."
+      }
+    },
+    {
+      "id": "e05",
+      "title": "Sustainable PubQuiz",
+      "description": "Put your sustainability knowledge to the test with a team quiz at bQm. Expect questions, conversation and a relaxed evening together.",
+      "start": "2026-04-13T19:30:00+02:00",
+      "end": "2026-04-13T22:00:00+02:00",
+      "campus": "ETH Zentrum",
+      "venue": "ETH Zentrum, bQm Bar",
+      "address": "Leonhardstrasse 34, 8092 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://www.google.com/maps/search/bqm%2C%2BPolyterrasse%2C%2BZurich",
+      "category": "Game",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": true,
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeaXsnizSAQYH7-fUx_yMubp_Ucy_13BYCj5yGgn8mJxsjUBw/viewform"
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true
+      }
+    },
+    {
+      "id": "e06",
+      "title": "From Waste Plastic to 3D Printing",
+      "description": "Explore the possibilities of recycling plastic through a practical workshop connecting circular materials and 3D printing.",
+      "start": "2026-04-14T10:00:00+02:00",
+      "end": "2026-04-14T13:00:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Stübli",
+      "address": "Winterthurerstrasse 190, 8057 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://www.google.com/maps/search/Irchel%2BVSUZH%2BSt%C3%BCbli%2C%2BZurich",
+      "category": "Workshop",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true
+      }
+    },
+    {
+      "id": "e07",
+      "title": "KEEP IT COOL Ausstellungsführung",
+      "description": "Explore an exhibition about climate, discover different perspectives and ask questions together.",
+      "start": "2026-04-15T15:00:00+02:00",
+      "end": "2026-04-15T16:30:00+02:00",
+      "campus": "UZH Irchel",
+      "venue": "UZH Irchel Tent, as printed",
+      "address": null,
+      "locationConfirmed": false,
+      "mapUrl": null,
+      "category": "Exhibition",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true,
+        "missing": [
+          "confirmed venue (design marks it \"to be confirmed\")"
+        ]
+      }
+    },
+    {
+      "id": "e08",
+      "title": "Gender, Sustainability & Climate Change",
+      "description": "Join a discussion of how gender and inequality shape experiences of climate change, with perspectives on a more inclusive sustainable future.",
+      "start": "2026-04-17T18:15:00+02:00",
+      "end": "2026-04-17T20:15:00+02:00",
+      "campus": "ZHdK",
+      "venue": "ZHdK 5.K11",
+      "address": "Pfingstweidstrasse 96, 8005 Zürich",
+      "locationConfirmed": true,
+      "mapUrl": "https://www.google.com/maps/search/ZHdK%2C%2BZurich",
+      "category": "Panel",
+      "languages": [
+        "en"
+      ],
+      "registration": {
+        "required": false,
+        "url": null
+      },
+      "status": "scheduled",
+      "dataFlags": {
+        "demoDescription": true,
+        "note": "Fixture room \"5.K11\" comes from the design; the image gives only \"ZHdK\" and lists 5.K11 for Biodiversitätsspiele Nachmittag."
+      }
+    }
+  ]
+}

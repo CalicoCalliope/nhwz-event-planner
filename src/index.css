@@ -1,0 +1,80 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource-variable/inter";
+
+/* No dark theme: keep shadcn dark: styles behind a .dark class that is never set. */
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+    --font-heading: var(--font-sans);
+    --font-sans: 'Inter Variable', system-ui, sans-serif;
+    --color-ring: var(--ring);
+    --color-input: var(--input);
+    --color-border: var(--border);
+    --color-destructive: var(--destructive);
+    --color-accent-foreground: var(--accent-foreground);
+    --color-accent: var(--accent);
+    --color-muted-foreground: var(--muted-foreground);
+    --color-muted: var(--muted);
+    --color-secondary-foreground: var(--secondary-foreground);
+    --color-secondary: var(--secondary);
+    --color-primary-foreground: var(--primary-foreground);
+    --color-primary: var(--primary);
+    --color-popover-foreground: var(--popover-foreground);
+    --color-popover: var(--popover);
+    --color-card-foreground: var(--card-foreground);
+    --color-card: var(--card);
+    --color-foreground: var(--foreground);
+    --color-background: var(--background);
+    --color-highlight: var(--highlight);
+    --color-cancelled: var(--cancelled);
+    --color-cancelled-foreground: var(--cancelled-foreground);
+    --color-highlight-foreground: var(--highlight-foreground);
+    --radius-control: 12px;           /* Figma radius-12: buttons, options, day tiles */
+    --radius-card: 16px;              /* Figma radius-16: cards, panels */
+    --radius-sm: calc(var(--radius) * 0.6);
+    --radius-md: calc(var(--radius) * 0.8);
+    --radius-lg: var(--radius);
+    --radius-xl: calc(var(--radius) * 1.4);
+    --radius-2xl: calc(var(--radius) * 1.8);
+}
+
+/* NHWZ palette: PRD FR07 reference colours + Figma tokens */
+:root {
+    --background: #F7F9F6;            /* page */
+    --foreground: #17251D;            /* main text */
+    --card: #FFFFFF;                  /* surface */
+    --card-foreground: #17251D;
+    --popover: #FFFFFF;
+    --popover-foreground: #17251D;
+    --primary: #006B3C;               /* NHWZ green */
+    --primary-foreground: #FFFFFF;
+    --secondary: #E8F1E9;            /* softGreen: pills, selected options, active nav */
+    --secondary-foreground: #006B3C;
+    --muted: #EEF3EF;
+    --muted-foreground: #46564C;      /* secondary text */
+    --accent: #E8F1E9;
+    --accent-foreground: #17251D;
+    --highlight: #F4D83A;             /* yellow, always with dark text */
+    --highlight-foreground: #17251D;
+    --destructive: #A3261B;
+    --cancelled: #FCECE8;
+    --cancelled-foreground: #972F28;
+    --border: #D6DED8;
+    --input: #8A988F;
+    --ring: #006B3C;
+    --radius: 0.625rem;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    @apply font-sans;
+  }
+  body {
+    @apply bg-background text-foreground text-base;
+  }
+}
