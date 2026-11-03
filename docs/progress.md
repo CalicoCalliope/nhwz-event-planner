@@ -29,17 +29,21 @@ read through the Figma MCP server.
 - [ ] Team review of `docs/event-data-review.md`, including whether to load the full programme
 - [ ] Manual browser/device test evidence (coverage to be agreed with the client)
 
-## Sprint 2: personal planning (not started)
+## Sprint 2: personal planning (in progress)
 
-- [ ] Save/remove (`nhwz.saved.v1`), storage fallback, cross-tab sync
-- [ ] My Week grouping, cancelled and empty states (page currently shows a "Coming in Sprint 2" notice)
+- [x] Save/remove on cards and details (`nhwz.saved.v1`), "Saved" label on cards, malformed data and unknown IDs
+      ignored, session fallback with a notice when storage fails, cross-tab sync
+- [x] My Week: grouped by day, start time then title, cancelled saved events removable, empty state with
+      "Browse programme", "Saved on this device" note, Back from details returns to My Week
+- [ ] Click-through of saved states in a real browser
 - [ ] Final accessibility checks; handover documentation
 
 ## Figma deviations (deliberate)
 
 | Figma | Implementation | Reason |
 | --- | --- | --- |
-| Save event / Remove from My Week buttons on cards and details | Not built yet | Sprint 2 |
+| Save event / Remove from My Week buttons on cards and details | Built as designed, plus a "Saved" label on cards | PRD FR01 (saved state shown as text on cards) |
+| D03 desktop My Week | Same sidebar layout as our desktop Programme (from 1024px) | Matches the desktop redesign above |
 | No demonstration notice | One-line notice under the edition dates | PRD FR06: don't present historical data as a future programme |
 | No campus line on details | "Campus: …" in "Where to go" | PRD FR03 lists campus |
 | "Google Maps ↗" link is a 24px text line | Same look, 44px tall tap area | PRD FR07 (44 x 44px targets) |

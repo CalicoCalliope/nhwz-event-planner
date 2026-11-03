@@ -2,6 +2,7 @@ import { ArrowLeft, ArrowUpRight } from 'lucide-react'
 import type { ReactNode } from 'react'
 import { useLocation, useNavigate, useParams } from 'react-router'
 import { CategoryPill } from '@/components/event-badges'
+import { SaveButton } from '@/components/save-button'
 import { Button, buttonVariants } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { NotFoundPage } from '@/pages/not-found-page'
@@ -119,6 +120,8 @@ export function EventDetailsPage() {
         <h1 className="w-full text-3xl leading-9 font-bold text-primary wrap-break-word lg:text-[2.5rem] lg:leading-[1.15]">
           {event.title}
         </h1>
+
+        <SaveButton event={event} className="w-full md:w-auto md:px-5" />
       </div>
 
       <div className="flex w-full flex-col gap-5 lg:sticky lg:top-[112px] lg:col-start-2 lg:row-span-2 lg:row-start-1">

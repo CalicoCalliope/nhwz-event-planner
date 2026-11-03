@@ -6,6 +6,11 @@ export function CategoryPill({ category }: { category: Category }) {
   return <span className={`${PILL} bg-secondary text-secondary-foreground`}>{category}</span>
 }
 
+/** Saved state on cards: text, not colour alone. */
+export function SavedPill() {
+  return <span className={`${PILL} bg-primary text-primary-foreground`}>Saved</span>
+}
+
 /** Cancellation label: always text, never colour alone. */
 export function CancelledPill() {
   return <span className={`${PILL} bg-cancelled text-cancelled-foreground`}>Cancelled</span>

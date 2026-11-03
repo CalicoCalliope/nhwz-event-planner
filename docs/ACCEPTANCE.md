@@ -22,18 +22,18 @@ cases for removed features (search, Now & Next, directions chooser, overlap warn
 | AC03 | Keyword search | — | — | Removed | PRD reduction 4 |
 | AC04 | Clear filters keeps day (search part removed) | Outside panel clears applied filters at once, day kept; inside panel resets draft only | As expected | Pass | "Clear all filters acts immediately…", "Clear filters inside the panel…" |
 | AC05 | Unapplied edits discarded on Close/Escape; Show results applies | Results unchanged until Show results | As expected | Pass | `programme-page.test.tsx` "AC05" (Close, Escape) |
-| AC06 | Save from card, views update, empty My Week | — | — | Sprint 2 | |
-| AC07 | Saved e02 persists; malformed/unavailable storage | — | — | Sprint 2 | |
+| AC06 | Save from card, views update, empty My Week | Card shows "Saved" and "Remove from My Week" without opening details; My Week lists it; empty My Week offers "Browse programme" | As expected | Pass | `my-week-page.test.tsx` "AC06" |
+| AC07 | Saved e02 persists; malformed/unavailable storage | IDs kept under `nhwz.saved.v1` and restored on reload; malformed data and unknown IDs ignored; failed storage keeps saves for the session with a notice | As expected | Pass | `saved-events.test.ts` "AC07", `my-week-page.test.tsx` "AC07" |
 | AC08 | Overlap warnings | — | — | Removed | PRD reduction 3 |
 | AC09, AC10 | Now & Next and edition time states | — | — | Removed | PRD reduction 1 |
-| AC11 | Cancelled e04 visible, registration unavailable | Shown with "Cancelled" in Programme and details; "Registration unavailable — event cancelled" | As expected | Pass (Programme/details); saved views Sprint 2 | `event-details-page.test.tsx` "shows cancellation…" |
+| AC11 | Cancelled e04 visible, registration unavailable | Shown with "Cancelled" in Programme and details; "Registration unavailable — event cancelled" | As expected | Pass, including My Week (label shown, removable) | `event-details-page.test.tsx` "shows cancellation…", `my-week-page.test.tsx` "AC11" |
 | AC12 | e05 registration link; missing-link fallback; e07 no invented destination | External link opens in new tab; "Contact the organiser to register"; no Maps link for e07 | As expected | Pass | `event-details-page.test.tsx`, `data-edge-cases.test.tsx` |
 | AC13 | Directions (chooser removed) | One "Google Maps" link; supplied Google links kept; other providers → Google Maps search | As expected | Pass | `links.test.ts`, `data-edge-cases.test.tsx` |
 | AC14, AC15 | Chooser keyboard trap and sharing | — | — | Removed | PRD reduction 2 |
 | AC16 | 320/390/1440px: wrapping, no overflow, labelled actions | No horizontal overflow, text ≥ 14px, targets ≥ 44px | As expected on all 10 screens | Pass (automated layout) | Headless Edge audit; keyboard check pending |
 | AC17 | Public HTTPS deployment | — | — | Not in package | PRD section 9 (hosting not assumed) |
 | AC18 | Native Figma completion | — | — | Not in package | PRD FR07 |
-| AC19 | Details return to origin with day, filters and scroll | Back restores day and applied filters (Programme origin) | Day and filters restored | Pass (day/filters); scroll in a real browser pending; My Week origin Sprint 2 | `event-details-page.test.tsx` "Back returns…" |
+| AC19 | Details return to origin with day, filters and scroll | Back restores day and applied filters (Programme origin) | Day and filters restored | Pass (day/filters, My Week origin); scroll in a real browser pending | `event-details-page.test.tsx` "Back returns…", `my-week-page.test.tsx` "…Back returns there (AC19)" |
 
 ### Not yet tested (Sprint 1)
 
